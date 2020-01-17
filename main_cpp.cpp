@@ -15,6 +15,9 @@ enum test_enum {
 namespace test_cpp
 {
 
+/**
+ * Test function.
+ */
 //% weight=30 async
 //% blockId="test_fn" block="Test C++"
 int test_fn()
